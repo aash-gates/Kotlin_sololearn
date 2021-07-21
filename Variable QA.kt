@@ -1,4 +1,5 @@
 fun main(){
-    var name : String = "Aash Gates"
-    println(name)   
+   var name : String = "AashGates"
+println(name)   
+
 }
