@@ -1,4 +1,4 @@
-fun main(){
-   var name: String ="Aash Gates"
-    println(name)    
+fun main() {
+    val name : String = "John"
+    println(name)
 }
