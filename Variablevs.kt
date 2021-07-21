@@ -1,5 +1,5 @@
-fun main{
-    num : Int=42
+fun main(args: Array<String>){
+   var num: Int=42
     println(num)
 }
  
