@@ -4,6 +4,6 @@ fun main(){
     print(num1 + num2)  //Addition
     print(num1 - num2)  //Subtraction
     print(num1 * num2)  //Multiplication
-    print(num2 / num1)  //Modules
-    print(num1 % num2)
+    print(num2 / num1)  //
+    print(num1 % num2) //
 }
