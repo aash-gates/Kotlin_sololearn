@@ -1,5 +1,5 @@
 fun main(){
-    var a = readLine()!!.toInt()
-    var b = readLine()!!.toInt()
-    println(a + b)
+    val a = readLine()!!.toInt()
+    val b = readLine()!!.toInt()
+    println(a+b)
 }
