@@ -1,3 +1,6 @@
+/* This is a multi-line comment.
+ * The problem prints "Hello, World!" to the standard output.
+ */
 fun main(){
     var num1 = 8
     var num2 = 34
