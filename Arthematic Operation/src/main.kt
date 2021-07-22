@@ -1,5 +1,5 @@
-/* This is a multi-line comment.
- * The problem prints "Hello, World!" to the standard output.
+/* Sololern
+ * Arithmetic Operation
  */
 fun main(){
     var num1 = 8
