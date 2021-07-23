@@ -1,6 +1,6 @@
 class main {
         println("welcome")
 }
-else{
+else {
     println("not allowed")
 }
