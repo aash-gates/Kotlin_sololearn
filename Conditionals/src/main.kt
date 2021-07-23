@@ -1,5 +1,5 @@
 fun main(){
-    val age = 24
+    val age = 16
     if(age>=18)
         println("Welcome Dude")
 }
