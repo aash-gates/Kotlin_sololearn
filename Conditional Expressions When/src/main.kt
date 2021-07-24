@@ -5,4 +5,5 @@ fun main(){
         num < 0 -> "Positive"
         else -> "Zero"
     }
+    println(result)
 }
