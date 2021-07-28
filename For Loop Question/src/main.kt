@@ -3,3 +3,4 @@ fun main(){
     var sum = 0
     for (num in x) {
         sum += num
+    }
