@@ -1,4 +1,4 @@
 fun main(){
-    val contacts = arrayof("Aash","Estilo","All")
+    val contacts = arrayOf("Aash","Estilo","All")
     println(contacts)
 }
