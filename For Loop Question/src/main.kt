@@ -4,3 +4,4 @@ fun main(){
     for (num in x) {
         sum += num
     }
+    println(sum)
