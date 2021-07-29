@@ -3,4 +3,5 @@ fun main(args: Array<String>) {
     var total: Double = 0.0
     var day = hours /24
 
+    if(hours > 24){
 }
