@@ -11,4 +11,5 @@ fun main(args: Array<String>) {
         total = hours * 1.0
     } else{
         total =1.0
+    }
 }
