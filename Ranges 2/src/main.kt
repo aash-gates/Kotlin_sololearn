@@ -1,15 +1,19 @@
 fun main() {
-    val x = 8
 
-    val y = when {
 
-        x > 10 -> x-1
+    val r = 2..6
 
-        x > 5 -> x+1
+    for(x in r) {
 
-        else -> x
+        if(10%x in r) {
+
+            println(x)
+
+        }
+
 
     }
 
-    print(y+x)
-}
+
+    }
+
