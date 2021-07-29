@@ -6,4 +6,5 @@ fun main(args: Array<String>) {
     if(hours > 24){
         total = 15*day + (hours%24)*0.5
     }else if(hours > 5 && hours < 24){
+        total = 5 + (hours - 5)*0.5
 }
