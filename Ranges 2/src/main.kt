@@ -1,11 +1,15 @@
 fun main() {
-    val x = arrayOf(8, 9, 42, 111)
-    if(42 in x) {
-        println("Yes")
-    }
-    else{
-        println("NO")
+    val x = 8
+
+    val y = when {
+
+        x > 10 -> x-1
+
+        x > 5 -> x+1
+
+        else -> x
+
     }
 
-
+    print(y+x)
 }
