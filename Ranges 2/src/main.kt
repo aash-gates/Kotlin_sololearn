@@ -1,18 +1,11 @@
 fun main() {
-
-
-    val r = 2..6
-
-    for(x in r) {
-
-        if(10%x in r) {
-
-            println(x)
-
+        val x = arrayOf(8, 9, 42, 111)
+        if(43 in x) {
+            println("Yes")
         }
-
-
-    }
+        else{
+            println("NO")
+        }
 
 
     }
