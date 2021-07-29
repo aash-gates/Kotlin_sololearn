@@ -8,4 +8,5 @@ fun main(args: Array<String>) {
     }else if(hours > 5 && hours < 24){
         total = 5 + (hours - 5)*0.5
     }else if(hours > 0 && hours < 5) {
+        total = hours * 1.0
 }
