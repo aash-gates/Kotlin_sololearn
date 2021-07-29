@@ -12,4 +12,5 @@ fun main(args: Array<String>) {
     } else{
         total =1.0
     }
+    println(total)
 }
