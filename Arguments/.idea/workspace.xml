@@ -71,4 +71,5 @@
           <url>file://$PROJECT_DIR$/src/main.kt</url>
           <line>3</line>
           <properties method="main">
+            <option name="EMULATED" value="true" />
 </project>
