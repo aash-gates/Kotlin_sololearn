@@ -67,4 +67,5 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
 </project>
