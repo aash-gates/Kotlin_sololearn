@@ -4,3 +4,4 @@ fun welcome(name : String){
 fun main(args:Array<String>){
     welcome("Aash Gates")
     welcome("Miss Aash")
+
