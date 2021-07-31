@@ -72,4 +72,5 @@
           <line>3</line>
           <properties method="main">
             <option name="EMULATED" value="true" />
+          </properties>
 </project>
