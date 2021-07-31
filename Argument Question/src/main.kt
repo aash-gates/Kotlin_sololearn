@@ -6,3 +6,4 @@ fun calc(x:Int) {
 
 }
 
+fun main(args: Array<String>) {
