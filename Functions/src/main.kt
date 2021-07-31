@@ -1,1 +1,2 @@
 fun welcome(){
+    println("Welcome")
