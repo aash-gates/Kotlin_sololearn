@@ -70,4 +70,5 @@
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/main.kt</url>
           <line>3</line>
+          <properties method="main">
 </project>
