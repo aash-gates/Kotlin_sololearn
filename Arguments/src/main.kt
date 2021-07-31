@@ -1,7 +1,7 @@
 fun welcome(name : String){
     println("Hello, $name")
 }
-fun main(args:Array<String>){
+fun main(){
     welcome("Aash Gates")
     welcome("Miss Aash")
 
