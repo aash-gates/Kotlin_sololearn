@@ -3,3 +3,4 @@ fun sum(x:Int ,y:Int) {
 }
 
 fun main(){
+    sum(8,5)
